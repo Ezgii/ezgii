@@ -5,7 +5,7 @@
 - 👋 Hi! I am Ezgi Kaya
 - 🌱 I am a graduate student in Computer Engineering at San Jose State University, California
 - 👀 I’m currently exploring Machine Learning and Reinforcement Learning
-- 📧 How to reach me: ezgi.kaya4@gmail.com or [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezgi-kaya-a6b3a2127/)
+- 📧 How to reach me: ezgi.kaya@sjsu.edu or [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ezgi-kaya-a6b3a2127/)
 
 <!--
 
